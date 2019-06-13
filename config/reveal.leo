@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181007231816.1" a="E"><vh>w10-w17</vh>
@@ -136,7 +136,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 40623221  協同產品設計簡報
 
 ### 虎科大機械設計工程系
 
@@ -144,7 +144,7 @@ vertical: body pane on the botton</t>
 Created by [40623221](https://github.com/mdecadp2018/site-40623221)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](https://localhost:8443/edit_page)
+
 
 
 </t>
