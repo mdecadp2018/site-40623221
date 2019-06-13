@@ -24,16 +24,16 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181007231816.1" a="E"><vh>w1-w2</vh>
+<v t="leo.20181007231816.1" a="E"><vh>w10-w17</vh>
 <v t="leo.20181007231816.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181007231851.1" a="E"><vh>w3-w4</vh>
+<v t="leo.20181007231851.1" a="E"><vh>繪圖</vh>
 <v t="leo.20181007231851.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181007231909.1" a="E"><vh>w5-w7</vh>
+<v t="leo.20181007231909.1" a="E"><vh>模擬</vh>
 <v t="leo.20181007231909.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181007231918.1" a="E"><vh>w8-w9</vh>
+<v t="leo.20181007231918.1" a="E"><vh>期末報告</vh>
 <v t="leo.20181007231918.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
@@ -347,18 +347,15 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181007231816.2"># week1-week2
-*大學就像餐廳,每一位老師教的都是養分,要多加學習,並且學習做得更好。
-1.登入自己的github帳號,新增一個new project,--&gt;40623221.github.io。
-2.clone自己的網址以及老師的網址。
-3.將老師的資料夾複製,除了.git及REASDME.me不用複製,其他都貼到自己的資料夾。
-4.綁定帳號及確認是否正確。
-5.開啟python wsgi.py ,複製網址開啟後將名稱編輯成自己學號,並且儲存。
-6.完成後將它git push。
-閱讀onshape 操作手冊及確認是否領到正確對應學號的倉儲。
-雖然之前用過github但是很久沒用,有很多東西要學,我們還使用了SHARE X進行影片錄製,在將它放到網    路上和大家分享,在BLOG上也有討論區可以留言呢。
-
-</t>
+<t tx="leo.20181007231816.2"># week10-week17
+1.分組以及分工
+2.修改分組網站內容
+3.討論各部分零件尺寸
+4.onshape進行協同
+5.開始初步模擬
+6.完成手足球之工程圖
+7.組員完成v-rep 模擬
+8.[零件介紹影片](https://www.youtube.com/watch?v=nF7F7X150mc)</t>
 <t tx="leo.20181007231851.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -368,15 +365,15 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181007231851.2">#week3-week4
+<t tx="leo.20181007231851.2"># Onshape
 
-
-#試著操作onshape製圖
-
-*伸長
-*旋轉
-*擠出
-*多虧了有免費的onshape操作手冊,在練習的過程中發現了很多厲害的功能。
+[手足球+送球機構的完成圖](https://cad.onshape.com/documents/fcd2ce4571d668249938c4fb/w/f8cf7d2aff1a9bbd00da57c4/e/8ed15db245d28cf2aa49ffb2)
+[操作桿尺寸](https://cad.onshape.com/documents/70ae09b84ba72fe5c5ef14ab/w/613d8349b354bd768b830627/e/dfea3cfcbfd14803555ea587)
+[握把尺寸](https://cad.onshape.com/documents/70ae09b84ba72fe5c5ef14ab/w/613d8349b354bd768b830627/e/adbe6de668cc33c0ef63ead9)
+[球員尺寸](https://cad.onshape.com/documents/70ae09b84ba72fe5c5ef14ab/w/613d8349b354bd768b830627/e/1b2291c268d8828737c1754e)
+[進球區尺寸](https://cad.onshape.com/documents/70ae09b84ba72fe5c5ef14ab/w/613d8349b354bd768b830627/e/28ae8a75d5ffe68cd8521686)
+[球場邊界](https://cad.onshape.com/documents/70ae09b84ba72fe5c5ef14ab/w/613d8349b354bd768b830627/e/85005b7341024c67868ab79c)
+[場地](https://cad.onshape.com/documents/70ae09b84ba72fe5c5ef14ab/w/613d8349b354bd768b830627/e/9bc721c57da73b9de65aa09d)
 </t>
 <t tx="leo.20181007231909.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -387,16 +384,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181007231909.2">#week5-week7
+<t tx="leo.20181007231909.2">#v-rep 模擬
 
-*第五週了，離期中考也越來越接近了，要多看手冊，把不懂的英文單字記下來，多多充實自己。
-*學習的是利用草圖，去完成陣列的排序，只要完成想設計的草圖，不管是擠出或是除料都可以利用陣列完成多個排序。
-
-*學習解決問題，雖然目前自己沒經歷過嚴重的錯誤，但將別人的錯誤記起來，學習處理的方式，是更有幫助學習的，在期中考前也要將進度一 一補齊。
-
-*PS:開始尋找期末作業組員，每組6位。
-
-
+[手足球機構](https://youtu.be/7eXzsj5p7vA)
+[人對電腦](https://youtu.be/9hXlpu8l6-o)
 </t>
 <t tx="leo.20181007231918.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -407,11 +398,12 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181007231918.2">#week8-week9
+<t tx="leo.20181007231918.2"># 個人簡報
+
+期中考後換了組員也換了分組題目，藉由大家分工到onshape的協同是需要很多時間的，最後組長也有模擬出v-rep的三種模式。
 
 
-*將前幾週所學的指令及onshape操作多練習以及將網誌跟投影片完成。
-*期中考自評成績。
+
 </t>
 </tnodes>
 </leo_file>
