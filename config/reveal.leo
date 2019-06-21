@@ -355,7 +355,9 @@ make.start()
 5.開始初步模擬
 6.完成手足球之工程圖
 7.組員完成v-rep 模擬
-8.[零件介紹影片](https://www.youtube.com/watch?v=nF7F7X150mc)</t>
+8.[零件介紹影片](https://www.youtube.com/watch?v=nF7F7X150mc)
+
+</t>
 <t tx="leo.20181007231851.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -386,8 +388,8 @@ make.start()
 </t>
 <t tx="leo.20181007231909.2">#v-rep 模擬
 
-[手足球機構](https://youtu.be/7eXzsj5p7vA)
-[人對電腦](https://youtu.be/9hXlpu8l6-o)
+[手足球機構](https://youtu.be/yQM7_HuMIps)
+[人對電腦](https://youtu.be/dPsazN3V5Ac)
 </t>
 <t tx="leo.20181007231918.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
